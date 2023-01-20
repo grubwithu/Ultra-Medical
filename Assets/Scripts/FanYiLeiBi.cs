@@ -45,7 +45,7 @@ public class FanYiLeiBi : MonoBehaviour
     }
 
     private void wordRead(string word) {
-        WWW www = new WWW("https://tts.youdao.com/fanyivoice?word=" + word + "&le=zh&keyfrom=speaker-target");
+        WWW www = new WWW("https://fanyi.sogou.com/reventondc/synthesis?text=" + word + "&speed=2&lang=zh-CHS&from=translateweb&speaker=6");
         if (www.error != null) {
             return;
         }

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EFC86027-AAAB-8244-80B2-2EAFFF9E8E0D}</ProjectGuid>
+    <ProjectGuid>{286DA921-6A0A-1319-9606-725526D52DE2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Services.Core.Telemetry</AssemblyName>
@@ -767,11 +767,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Services.Core.csproj">
-      <Project>{B3EB5348-38D9-C017-06D9-D042BF331A1B}</Project>
+      <Project>{156BA69D-5F4F-F969-0B24-CE04A3535E4F}</Project>
       <Name>Unity.Services.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Internal.csproj">
-      <Project>{58397A73-7854-4A6C-BA97-4E748BF307DA}</Project>
+      <Project>{7856C317-1EFE-C865-360F-A6EC2D59747D}</Project>
       <Name>Unity.Services.Core.Internal</Name>
     </ProjectReference>
   </ItemGroup>
